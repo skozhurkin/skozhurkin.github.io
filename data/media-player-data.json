@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "type": "video",
+    "src": "https://files.vidstack.io/sprite-fight/720p.mp4",
+    "title": "Cholecystectomy - 1042789",
+    "textTracks": [
+      {
+        "src": "https://files.vidstack.io/sprite-fight/chapters.vtt",
+        "language": "en-US",
+        "kind": "chapters",
+        "type": "vtt",
+        "default": true
+      }
+    ],
+    "thumbnails": "https://files.vidstack.io/sprite-fight/thumbnails.vtt",
+    "poster": "https://files.vidstack.io/sprite-fight/poster.webp",
+    "events": [
+      {
+        "id": "1",
+        "title": "System startup completed",
+        "time": "10:33 AM",
+        "timeInSeconds": 45
+      },
+      {
+        "id": "2",
+        "title": "Low battery warning",
+        "time": "10:45 AM",
+        "timeInSeconds": 156,
+        "comment": "Test commentary"
+      },
+      {
+        "id": "3",
+        "title": "Connection established",
+        "time": "11:00 AM",
+        "timeInSeconds": 287
+      },
+      {
+        "id": "4",
+        "title": "Error in data processing",
+        "time": "11:15 AM",
+        "timeInSeconds": 423
+      },
+      {
+        "id": "5",
+        "title": "Backup completed",
+        "time": "11:30 AM",
+        "timeInSeconds": 578
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Cholecystectomy - 1042790",
+    "type": "image",
+    "src": "https://dummyimage.com/1280x720/fff/aaa",
+    "preview": "https://placehold.co/600x400/EEE/31343C"
+  }
+]
