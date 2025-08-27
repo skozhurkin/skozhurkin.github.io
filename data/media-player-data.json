@@ -55,5 +55,33 @@
     "type": "image",
     "src": "https://dummyimage.com/1280x720/fff/aaa",
     "preview": "https://placehold.co/600x400/EEE/31343C"
+  },
+  {
+    "id": "3",
+    "type": "video",
+    "src": "https://skozhurkin.github.io/data/lab.mp4",
+    "poster": "https://skozhurkin.github.io/data/lab-preview.png",
+    "title": "Cholecystectomy - 1042793",
+    "events": [
+      {
+        "id": "1",
+        "title": "System startup completed",
+        "time": "10:33 AM",
+        "timeInSeconds": 1
+      },
+      {
+        "id": "2",
+        "title": "Low battery warning",
+        "time": "10:45 AM",
+        "timeInSeconds": 8,
+        "comment": "Test commentary"
+      },
+      {
+        "id": "3",
+        "title": "Connection established",
+        "time": "11:00 AM",
+        "timeInSeconds": 3
+      }
+    ]
   }
 ]
